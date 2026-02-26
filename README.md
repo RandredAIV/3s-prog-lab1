@@ -52,14 +52,14 @@ for saving and loading data from files.
 All structures support reading and writing data from/to a file.
 
 ## File Structure
-├── Array.h                # Dynamic array (template class)
-├── LinkedList.h           # Singly linked list (template class)
-├── DoubleLinkedList.h     # Doubly linked list (template class)
-├── Stack.h                # Stack (template class)
-├── HashTable.h            # Hash table (header file)
-├── HashTable.cpp          # Hash table (implementation)
-├── CompleteBinaryTree.h   # Complete binary tree
-└── main.cpp               # Program entry point
+├── Array.h                # Dynamic array (template class)  
+├── LinkedList.h           # Singly linked list (template class)  
+├── DoubleLinkedList.h     # Doubly linked list (template class)  
+├── Stack.h                # Stack (template class)  
+├── HashTable.h            # Hash table (header file)  
+├── HashTable.cpp          # Hash table (implementation)  
+├── CompleteBinaryTree.h   # Complete binary tree  
+└── main.cpp               # Program entry point  
 
 ## Language
 C++
