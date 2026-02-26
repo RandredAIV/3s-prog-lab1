@@ -32,7 +32,7 @@ C++
 Открыть терминал в VS Code и выполнить:
 
 g++ *.cpp -o main
-./main
+./main  
 
 #EN
 # Abstract Data Structures
